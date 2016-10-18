@@ -2,6 +2,7 @@
   "name": "creative",
   "title": "Creative",
   "version": "3.3.7+1",
+  "main": "server.js",
   "homepage": "http://startbootstrap.com/template-overviews/creative",
   "author": "Start Bootstrap",
   "license": {
@@ -25,5 +26,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/BlackrockDigital/startbootstrap-creative.git"
+  },
+  "dependencies": {
+    "express": "^4.14.0"
   }
 }
